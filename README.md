@@ -30,20 +30,8 @@ Node.js & Express – Server-side integration
 Google Maps API (optional) – Location-based news features
 Responsive UI Design – Mobile and desktop compatibility
 
-Project Structure
+<img width="526" height="353" alt="image" src="https://github.com/user-attachments/assets/a7ac063b-1ea9-49d4-82e3-031e5e374fb8" />
 
-├── frontend/               # User interface files
-│   ├── index.html
-│   ├── styles.css
-│   └── app.js
-│
-├── backend/                # AI processing server
-│   ├── ai_server.py
-│   ├── summarizer.py
-│   ├── fake_news_model.py
-│   └── prediction_engine.py
-│
-└── assets/ (optional)      # Icons, images, UI resources
 How to Use
 Clone the repository
 git clone https://github.com/your-username/tatvai
