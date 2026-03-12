@@ -31,6 +31,7 @@ Google Maps API (optional) – Location-based news features
 Responsive UI Design – Mobile and desktop compatibility
 
 Project Structure
+
 ├── frontend/               # User interface files
 │   ├── index.html
 │   ├── styles.css
